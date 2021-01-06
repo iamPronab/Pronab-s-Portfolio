@@ -1,0 +1,23 @@
+h1{
+    font-size: 50px;
+}
+
+.name{
+    color: #FF2178
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.half-width{
+    width: 42%;
+    padding-left: 1%;
+    margin-left: 3%;
+    float: left;
+}
+
+.half-width img{
+    width:100%;
+    margin-left: 25%;
+    padding-left: 2%;
+   
+}
