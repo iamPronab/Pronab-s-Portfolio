@@ -32,9 +32,9 @@ margin: 0;}
     text-align: center;   
     padding: 15px 45px;
     margin-left: 150px;
-    border-radius: 10px;;
+    border-radius: 10px;
    }
-
+ .fb {margin-top: 30px;}
 section {
     height: 500px;
     }
@@ -66,15 +66,34 @@ p{color: dimgray;}
     background-repeat: no-repeat;
 }
 
-#fs{
+#full_stack{
     border-left: 7px solid;
     border-image: linear-gradient(lightsalmon,tomato);
-    border-image-slice: 1;}
+    border-image-slice: 1;
+     border-radius: 0px 50px 0px 0px; color: dodgerblue;}
 
-    #ffs{
+    #baby{
         border-left: 7px solid;
         border-image: linear-gradient(blue,cyan);
-        border-image-slice: 1;}
+        border-image-slice: 1;border-radius: 0px 50px 0px 0px;}
 
-}
-.ttt {text-align: center;}
+.para{text-align: center;}
+
+#thirdbox{
+    height: 60%;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;border-radius: 0px 50px 0px 0px;}
+
+.second-area{  background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+background-position: right;}
+   
+
+#fourthbox{ border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1;
+    height: 80%;border-radius: 0px 50px 0px 0px;}
+
+
+    
