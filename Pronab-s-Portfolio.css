@@ -1,5 +1,5 @@
 h1{
-    font-size: 50px;
+    font-size: 45px;
 }
 
 .name{
@@ -21,11 +21,19 @@ margin: 0;}
 }
 
 .half-width img{
-    width:100%;
+    width:100%;}
    
   
-   
-}
+.Hire-Me {
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+    background-image: linear-gradient(to right, #EA0FFc 0%, #8766F0 100%, #18C6E1  51%);
+    text-align: center;   
+    padding: 15px 45px;
+    margin-left: 150px;
+    border-radius: 10px;;
+   }
 
 section {
     height: 500px;
@@ -36,3 +44,37 @@ section {
 background-repeat: no-repeat;}
 
 .relationship {color: #FF2178 }
+
+.secondtop {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+p{color: dimgray;}
+
+.ex{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 90%;
+
+}
+
+.ex-area{
+
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+#fs{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1;}
+
+    #ffs{
+        border-left: 7px solid;
+        border-image: linear-gradient(blue,cyan);
+        border-image-slice: 1;}
+
+}
+.ttt {text-align: center;}
